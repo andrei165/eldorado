@@ -8,11 +8,12 @@ Copyright (c) 2009-2016 Eldorado Core Developers
 What is Eldorado?
 ----------------
 
-Eldorado is an experimental new digital currency that enables instant payments to
+Eldorado is new digital currency that enables instant payments to
 anyone, anywhere in the world. Eldorado uses peer-to-peer technology to operate
-with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Eldorado Core is the name of open source
-software which enables the use of this currency.
+with no central authority. Eldorado is backed by gold. (Redeemable in Gold on Demand)
+Devalin Inc., the Canadian based research and business development company since 2004,
+will launch the coin on December 1st, 2016. The coin will be valued at 1 oz of 999.9
+fine gold, and will serve as a more secure store of value than Bitcoin.
 
 For more information, as well as an immediately useable, binary version of
 the Eldorado Core software, see http://eldorado-gold.net
